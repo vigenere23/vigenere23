@@ -10,3 +10,4 @@ I'm a senior year student in Software Engineering (B.Eng) and starting my Master
 #### Latest work
 
 - [gio-library](https://www.npmjs.com/package/@vigenere23/gio) : A Vue design library by me, for everyone!
+- A reimplementation of the library in Svelte! Stay tuned!
