@@ -9,5 +9,4 @@ I'm a senior year student in Software Engineering (B.Eng) and starting my Master
 
 #### Latest work
 
-- [gio-library](https://www.npmjs.com/package/@gabio/design-vue) : A Vue design library by me, for everyone!
-- A reimplementation of the library in Svelte! Stay tuned!
+- [@gabio/design-svelte](https://www.npmjs.com/package/@gabio/design-vue) : A Svelte design library by me, for everyone!
