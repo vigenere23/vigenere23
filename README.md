@@ -11,8 +11,8 @@ I'm a senior year student in Software Engineering (B.Eng) and starting my Master
 
 Lately, I've been working on an ecosystem of libraries for the Front-End development under my brand name, **gab.io**. Those include :
 
-- [@gabio/design-svelte](https://www.npmjs.com/package/@gabio/design-svelte) : A Svelte design library by me, for everyone!
-- [@gabio/design-vue](https://www.npmjs.com/package/@gabio/design-vue) : The Vue (and initial) version of the design library
-- [@gabio/markdown-transpiler](https://www.npmjs.com/package/@gabio/markdown-transpiler) : An extensible Typescript markdown transpiler
+- [@gabio/design-svelte](https://github.com/vigenere23/gabio-design-svelte) : A Svelte design library by me, for everyone!
+- [@gabio/design-vue](https://github.com/vigenere23/gabio-design-vue) : The Vue (and initial) version of the design library
+- [@gabio/markdown-transpiler](https://github.com/vigenere23/gabio-markdown-transpiler) : An extensible Typescript markdown transpiler
 
 Lots of documentation :book: will come at some point
