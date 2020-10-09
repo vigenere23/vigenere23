@@ -14,5 +14,6 @@ Lately, I've been working on an ecosystem of libraries for the Front-End develop
 - [@gabio/design-svelte](https://github.com/vigenere23/gabio-design-svelte) : A Svelte design library by me, for everyone!
 - [@gabio/design-vue](https://github.com/vigenere23/gabio-design-vue) : The Vue (and initial) version of the design library
 - [@gabio/markdown-transpiler](https://github.com/vigenere23/gabio-markdown-transpiler) : An extensible Typescript markdown transpiler
+- [@gabio/web-svelte](https://github.com/vigenere23/gabio-web-svelte) : My portfolio Svelte app using the **`@gabio`** libraries
 
 Lots of documentation :book: will come at some point
