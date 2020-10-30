@@ -1,6 +1,6 @@
 ### Hi folks! 🤙
 
-I'm a senior year student in Software Engineering (B.Eng) and starting my Master's degree in Artificial Intelligence (M.Sc.)!
+I'm a 4th year student in Software Engineering (B.Eng) and starting my Master's degree in Artificial Intelligence (M.Sc.)!
 
 - :heart: I love doing what I do! Solving problems, learning new tools and methods every day and always improving myself!
 - 🔭 I’m currently working at [Kimoby](https://kimoby.com), learning at [ULaval](https://ulaval.ca) and improving my frontend, devops and design skills with all my personal projects!
