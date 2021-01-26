@@ -1,4 +1,4 @@
-### Hi folks! 🤙
+## Hi folks! 🤙
 
 I'm a 4th year student in Software Engineering (B.Eng) and starting my Master's degree in Artificial Intelligence (M.Sc.)!
 
@@ -8,7 +8,7 @@ I'm a 4th year student in Software Engineering (B.Eng) and starting my Master's 
 - 🏆 I'm quite at ease with UI design, Vue, Typescript, and Web development + architecture.
 - 🌟 I'm always improving my [portfolio](https://vigenere23.github.io), stay tuned!
 
-#### Latest work
+### Latest work
 
 Lately, I've been working on an ecosystem of libraries for the Front-End development under my brand name, **gab.io**. Those include:
 
@@ -31,3 +31,7 @@ Finally, here are my recently completed school projects:
 
 - [SPAMDUL](https://github.com/vigenere23/SPAMDUL) : A parking management system in DDD
 - [Hand-video-control](https://github.com/vigenere23/Hand-video-control) : A neural network + software to recognize sign language
+
+### Other accounts
+
+- GASTP33 (deleted)
