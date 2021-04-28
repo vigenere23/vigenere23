@@ -1,12 +1,13 @@
 ## Hi folks! 🤙
 
-I'm a 4th year student in Software Engineering (B.Eng) and starting my Master's degree in Artificial Intelligence (M.Sc.)!
+I'm a Software Engineering (B.Eng) graduate at [ULaval](https://ulaval.ca) and starting my Master's degree in Artificial Intelligence (M.Sc.)!
 
 - :heart: I love doing what I do! Solving problems, learning new tools and methods every day and always improving myself!
-- 🔭 I’m currently teaching and learning at [ULaval](https://ulaval.ca) and improving my frontend, devops and design skills with all my personal projects!
-- 🌱 I’m currently learning more about software architecture and agile development!
+- 🔭 I’m currently teaching and learning at [ULaval](https://ulaval.ca)!
+- 🌱 I’m currently improving my frontend, devops and design skills with all my personal projects!
 - 🏆 I'm quite at ease with UI design, Vue, Typescript, and Web development + architecture.
 - 🌟 I'm always improving my [portfolio](https://vigenere23.github.io), stay tuned!
+- 😍 I'm in love with coffee.. oh and also [Svelte](https://github.com/sveltejs/svelte)!
 
 ### Latest work
 
