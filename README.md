@@ -2,8 +2,9 @@
 
 ### Now doing
 
-- Coding a craaaazy multiprocess data acquisition pipeline for finger angles predictions from EMGs 😮
-- Replanning and recreating coding laboratories for ULaval 💪
+- Building a multiprocess data pipeline with live queue monitoring for realtime data acquisition 📈
+- Analyzing EMG signals for predicting phalanx angles of a finger 🤏
+- Creating coding activities and grading students projects for Laval University 💻
 - Drinking good coffee at 3 PM on a sunny terrace ☕
 
 ### 🏆 What I do
