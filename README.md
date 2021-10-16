@@ -9,7 +9,7 @@
 
 ### 🏆 What I won
 
-- 2nd place in a sentiment analysis competition (🔗)[https://www.kaggle.com/c/analyse-de-sentiments-amazon-glo-7050-h21/leaderboard]
+- 2nd place in a sentiment analysis competition [🔗](https://www.kaggle.com/c/analyse-de-sentiments-amazon-glo-7050-h21/leaderboard)
 - 2nd best (locally) in UnitedCTF computer security competition
 - Best graphical Java project for OO introduction course
 
