@@ -2,10 +2,9 @@
 
 ### 🔥 Now doing
 
-- Building a multiprocess data pipeline with live queue monitoring for realtime data acquisition 📈
-- Analyzing EMG signals for predicting phalanx angles of a finger 🤏
+- Just builded a [multiprocess data pipeline](https://github.com/vigenere23/finger-angles-predictions-EMG) with live queue monitoring for realtime high-speed data acquisition 📈
 - Creating coding activities and grading students projects for Laval University 💻
-- Drinking good coffee at 3 PM on a sunny terrace ☕
+- Drinking good coffee at 3 PM in a wintery coffeeshop ☕❄️
 
 ### 🏆 What I won
 
