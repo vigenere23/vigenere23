@@ -2,7 +2,7 @@
 
 ### 🔥 Now doing
 
-- Just builded a [multiprocess data pipeline](https://github.com/vigenere23/finger-angles-predictions-EMG) with live queue monitoring for realtime high-speed data acquisition 📈
+- Ever dreamed of managing your Discord's server through a simple config file? Well, you'll soon be able to!
 - Creating coding activities and grading students projects for Laval University 💻
 - Drinking good coffee at 3 PM in a wintery coffeeshop ☕❄️
 
@@ -16,8 +16,9 @@
 
 - User-oriented Web UIs that are fully responsive, inclusive and carefully designed
 - Domain-Driven architectures based on flexible, extensible and reusable modules
-- Small librairies to make my life easier (like [@gabio/markdown-transpiler](https://github.com/vigenere23/gabio-markdown-transpiler))
+- Small librairies to make my life easier
 - Some sweet Docker setups, machines and pipelines
+- A multiprocess data pipeline for EMG signal analysis
 
 ### ❤️ What I love
 
