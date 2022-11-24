@@ -1,6 +1,6 @@
 ## Hi folks! 🤙
 
-Happy to see you there :) Sit back, relax, and enjoy come sweet coding time ☕
+Happy to see you there 🙂 Sit back, relax, and enjoy come sweet coding time ☕
 
 ### 🔥 Now doing
 
