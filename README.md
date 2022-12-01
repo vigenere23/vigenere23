@@ -6,7 +6,7 @@ Happy to see you there 🙂 Sit back, relax, and enjoy come sweet coding time �
 
 - Creating coding activities and projects for bachelor students [@uLaval](https://github.com/ulaval)
 - Working on new tools and librairies (like [Disma](https://github.com/vigenere23/disma)!)
-- Learning Rust (because it IS awesome)
+- Learning best-practices in Rust
 
 ### ❤️ What I love
 
