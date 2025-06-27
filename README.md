@@ -1,13 +1,12 @@
 ## Hi folks! 🤙
 
-Happy to see you there 🙂 Sit back, relax, and enjoy come sweet coding time ☕
+Happy to see you there 🙂 Sit back, relax, and enjoy some sweet coding time ☕
 
 ### 🔥 Now doing
 
-- Making workspaces more collaborative [@gphy](https://github.com/gphy-admin)
-- Creating coding activities and projects for bachelor students [@uLaval](https://github.com/ulaval)
-- Working on new tools and librairies (like [Disma](https://github.com/vigenere23/disma)!)
-- Learning best-practices in Rust
+- Making workspaces more collaborative with [elia](https://elia.io) at [GPHY](https://gphy.ca)
+- Learning more about networking and Docker intricacies by deploying a fully containerized homelab server
+- Writing some cool technical articles for my [portfolio](https://thehyper.dev)
 
 ### ❤️ What I love
 
@@ -19,4 +18,4 @@ Happy to see you there 🙂 Sit back, relax, and enjoy come sweet coding time �
 ### 💡 To see more
 
 - [All repos](https://github.com/vigenere23?tab=repositories)
-- [Portfolio](https://vigenere23.github.io)
+- [Portfolio](https://thehyper.dev)
